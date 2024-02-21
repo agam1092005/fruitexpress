@@ -1,0 +1,4 @@
+#Wed Feb 21 15:46:41 IST 2024
+base.0=/Users/agam1092005/StudioProjects/fruitexpress/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
