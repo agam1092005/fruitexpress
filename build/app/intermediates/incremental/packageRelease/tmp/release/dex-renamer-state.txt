@@ -1,0 +1,4 @@
+#Thu Feb 29 16:23:24 IST 2024
+base.0=/Users/agam1092005/StudioProjects/fruitexpress/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
